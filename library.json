@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Typescript",
+        "author": "Muniza",
+        "year": 2022,
+        "genre": "First Quarter",
+        "read_status": true
+    },
+    {
+        "title": "Python",
+        "author": "Nafay",
+        "year": 2023,
+        "genre": "Second Quarter",
+        "read_status": true
+    },
+    {
+        "title": "C#",
+        "author": "Abdul Nafay",
+        "year": 2024,
+        "genre": "Second Quarter",
+        "read_status": true
+    },
+    {
+        "title": "Islamic",
+        "author": "Muhammad Ahmed",
+        "year": 2023,
+        "genre": "Islamiyat",
+        "read_status": true
+    },
+    {
+        "title": "Islamic",
+        "author": "Muhammad Ahmed khan",
+        "year": 2022,
+        "genre": "Islamiyat",
+        "read_status": true
+    }
+]
